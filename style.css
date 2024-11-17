@@ -19,19 +19,7 @@ html,body {
 gap: 20px;
 background: linear-gradient(to right, #39423b, #0b2a33);
 }
-.left-text {
-    flex-basis: 25%;
-    text-align: center;
-}
-.heading{
-    color: rgb(189, 170, 170);
-    font-size: 3vw;
-    font-weight: 600;
-}
-.subheading{
-    color: #ddd;
-    margin-top: 1em;
-}
+
 .gallery {
     flex-basis: 60%;
     display: grid;
